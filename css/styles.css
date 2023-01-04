@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(117, 190, 218, 0.5);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: purple;
+  border-width: 5px;
+  width: 25%;
+}
+
+h1 {
+  color: #002E94;
+}
+
+h3 {
+  color: #002E94;
+}
